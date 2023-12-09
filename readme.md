@@ -55,23 +55,6 @@ The dataset used in this project contains images of driving licenses, social sec
 
 ---
 
-## Key Concepts Explored
-
-- CNN architecture
-- Pooling and Padding
-- Use of Pooling and Padding
-- Convolution
-- TensorFlow
-- Feature map
-- Data Augmentation
-- Loading data using TensorFlow
-- Building a CNN model using TensorFlow
-- Data preprocessing
-- Building an API using Flask
-- Real-time prediction using Unicorn Platform
-
----
-
 ## Getting Started
 
 1. Create virtual environment and install all the required libraries from requirements.txt 
